@@ -1,0 +1,6 @@
+{
+  "faculty_test_mode": true,
+  "show_pulp_code": true,
+  "show_validation_diagnostics": false,
+  "show_debug_parsed_model": false
+}
